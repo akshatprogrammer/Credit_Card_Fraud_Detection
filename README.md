@@ -13,8 +13,9 @@ Idea  is to recognize fraudulent credit card transactions so that the customers 
 2. Imbalance can be dealt with by properly using some methods which we will talk about in the next paragraph
 3. For protecting the privacy of the user the dimensionality of the data can be reduced.
 4. A more trustworthy source must be taken which double-check the data, at least for training the model.
-5. We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy.</br>
+5. We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy.</br></br>
 <b> Ref from GEEKSFORGEEKS<b>
-  
+## DataSet from Kaggle
+  [LINK](https://www.kaggle.com/mlg-ulb/creditcardfraud/download)
 ## NoteBook
-[HERE]()
+[HERE](https://github.com/akshatprogrammer/Credit_Card_Fraud_Detection/blob/main/CreditCardFraudDetection.ipynb)
